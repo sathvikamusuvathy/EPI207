@@ -1,8 +1,4 @@
-# EPI207
-
-*This file serves as a template for a README.md for a project.*
-
-*Copy-paste below the line and make edits to fit your own project.*
+# Personal Repository for EPI207
 
 ---------
 
