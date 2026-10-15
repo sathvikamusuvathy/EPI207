@@ -10,4 +10,4 @@ Contains Code from Project 1, which was a group project in which we reproduced t
 * Sathvika Musuvathy
 
 *E-MAIL*
-Sathvika Musuvathy
+sathvikamusuvathy@g.ucla.edu
