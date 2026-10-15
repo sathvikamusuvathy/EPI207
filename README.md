@@ -1,5 +1,5 @@
 # Personal Repository for EPI207
-*EPI 207: : Reproducibility in Epidemiological Research*
+*EPI 207: Reproducibility in Epidemiological Research*
 
 ---------
 
