@@ -1,18 +1,10 @@
 # Personal Repository for EPI207
+*EPI 207: : Reproducibility in Epidemiological Research*
 
 ---------
 
-## Project title
-Project description: A little info about your project and/ or overview that explains **what** the project is about. You can also explain **why** the project exists. You can mention this is for coursework too. 
-
-## Features
-What makes your project stand out?
-
-## Acknowledgments
-Give proper credit to resources you used in this project. This could be a link to any repo which inspired you to build this project, any blogposts, or links to people who contrbuted in this project. 
-
-## Anything else that seems useful
-
+## Project1 Folder
+Contains Code from Project 1, which was a group project in which we reproduced the results from the paper "Soda Consumption and Hospital Admissions among Californian Adults with Asthma” (Cisneros et al., 2017). This paper utilized data from the 2011 and 2012 cycles of the California Health Interview Survey (CHIS). 
 
 ## Created by
 * Sathvika Musuvathy
