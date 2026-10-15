@@ -19,6 +19,7 @@ Give proper credit to resources you used in this project. This could be a link t
 
 
 ## Created by
-* [@jyixzhou](https://github.com/jyixzhou)
+* Sathvika Musuvathy
 
-*E-MAIL/PHONE*
+*E-MAIL*
+Sathvika Musuvathy
